@@ -15,7 +15,7 @@ Currently learning **Python, Git/GitHub, and Databases**
   </a>
   
   </a>
-  <a href="www.linkedin.com/in/rafael-porto-543bba397">
+  <a href="https://www.linkedin.com/in/rafael-porto-543bba397">
     <img src="https://img.shields.io/badge/LinkedIn-rafael--porto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
