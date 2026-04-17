@@ -64,9 +64,3 @@ I am a Systems Analysis and Development student, focusing on backend development
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rportocortes/rportocortes/output/pacman-contribution-graph.svg">
   </picture>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DosAnjos013/DosAnjos013/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DosAnjos013/DosAnjos013/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DosAnjos013/DosAnjos013/output/pacman-contribution-graph.svg">
-</picture>
