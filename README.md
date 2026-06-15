@@ -4,7 +4,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado em **desenvolvimento backend**
 e estruturação de dados para aplicações escaláveis. Tenho experiência com automação de processos,
-integração de sistemas e construção de APIs — sempre buscando soluções eficientes, organizadas e
+integração de sistemas e construção de APIs sempre buscando soluções eficientes, organizadas e
 orientadas à performance.
 
 📊 **Explorando atualmente:** 🌐 JavaScript · 🟢 Node.js · 🗄️ PostgreSQL & SQL · ⚙️ REST APIs
