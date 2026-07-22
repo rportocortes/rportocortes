@@ -7,7 +7,7 @@ e estruturação de dados para aplicações escaláveis. Tenho experiência com 
 integração de sistemas e construção de APIs sempre buscando soluções eficientes, organizadas e
 orientadas à performance.
 
-📊 **Explorando atualmente:** 🌐 JavaScript · 🟢 Node.js · 🗄️ PostgreSQL & SQL 
+📊 **Explorando atualmente:** 🌐 JavaScript · 🟢 Node.js · 🗄️ PostgreSQL
 
 💡 **Objetivo:** Atuar no backend, criando aplicações consistentes e bem estruturadas para
 resolver problemas reais de forma eficiente.
