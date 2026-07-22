@@ -7,7 +7,7 @@ e estruturação de dados para aplicações escaláveis. Tenho experiência com 
 integração de sistemas e construção de APIs sempre buscando soluções eficientes, organizadas e
 orientadas à performance.
 
-📊 **Explorando atualmente:** 🌐 JavaScript · 🟢 Node.js · 🗄️ PostgreSQL & SQL · ⚙️ REST APIs
+📊 **Explorando atualmente:** 🌐 JavaScript · 🟢 Node.js · 🗄️ PostgreSQL & SQL 
 
 💡 **Objetivo:** Atuar no backend, criando aplicações consistentes e bem estruturadas para
 resolver problemas reais de forma eficiente.
@@ -23,10 +23,6 @@ resolver problemas reais de forma eficiente.
 ### 🤖 Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" alt="HTML5" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" alt="CSS3" />
-  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js" />
