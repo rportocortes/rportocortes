@@ -1,21 +1,19 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Olá, sou Rafael 
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Olá, sou Rafael
 
 ### 🧠 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado em **desenvolvimento backend**
-e estruturação de dados para aplicações escaláveis. Tenho experiência com automação de processos,
-integração de sistemas e construção de APIs sempre buscando soluções eficientes, organizadas e
-orientadas à performance.
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento Back-End e organização de dados.
 
-📊 **Explorando atualmente:** 🌐 JavaScript · 🟢 Node.js · 🗄️ PostgreSQL
+Atualmente, estou construindo minha base técnica em JavaScript, Node.js, Python e PostgreSQL, buscando desenvolver soluções organizadas, consistentes e seguindo boas práticas de programação.
 
-💡 **Objetivo:** Atuar no backend, criando aplicações consistentes e bem estruturadas para
-resolver problemas reais de forma eficiente.
+📊 **Explorando atualmente:** 🌐 JavaScript · 🟢 Node.js · 🐍 Python · 🗄️ PostgreSQL
+
+💡 **Objetivo:** Atuar no Back-End, criando aplicações consistentes e bem estruturadas para resolver problemas reais de forma eficiente.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/rafael-porto-543bba397" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="Vamos nos conectar!" />
-    </a>
+  <a href="https://www.linkedin.com/in/rafael-porto-543bba397" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="Vamos nos conectar!" />
+  </a>
 </p>
 
 ---
@@ -37,7 +35,7 @@ resolver problemas reais de forma eficiente.
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45" alt="Figma" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="45" alt="VSCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="45" alt="VS Code" />
 </p>
 
 ---
@@ -48,10 +46,10 @@ resolver problemas reais de forma eficiente.
   <table border="0" align="center">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=rportocortes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api?username=rportocortes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" width="400" alt="Estatísticas do GitHub" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rportocortes&layout=compact&theme=tokyonight&hide_langs_below=1&locale=pt-br" width="300" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rportocortes&layout=compact&theme=tokyonight&hide_langs_below=1&locale=pt-br" width="300" alt="Linguagens mais utilizadas" />
       </td>
     </tr>
   </table>
@@ -61,6 +59,6 @@ resolver problemas reais de forma eficiente.
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rportocortes/rportocortes/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rportocortes/rportocortes/output/pacman-contribution-graph.svg">
-    <img alt="gráfico de contribuições pacman" src="https://raw.githubusercontent.com/rportocortes/rportocortes/output/pacman-contribution-graph.svg">
+    <img alt="Gráfico de contribuições Pac-Man" src="https://raw.githubusercontent.com/rportocortes/rportocortes/output/pacman-contribution-graph.svg">
   </picture>
 </p>
